@@ -19,4 +19,6 @@ public class Semaforo {
     }
     // hola mundo
     
+    int hola; 
+    
 }
